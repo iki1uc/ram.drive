@@ -1,0 +1,9 @@
+{
+  "JOIN_anchor_map": {
+    "ourworld": "user",
+    "workworld": "work",
+    "orbitwelt": "243",
+    "corridoor": "transwarp",
+    "mode": "anchor"
+  }
+}
