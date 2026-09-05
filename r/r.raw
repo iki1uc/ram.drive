@@ -1,0 +1,12 @@
+{
+  "JOIN_orbitwelt": {
+    "orbit": "243",
+    "matrix": "9x9",
+    "room": "81",
+    "ram": "active",
+    "rom": "syn",
+    "raw": "directV",
+    "pipeline": "12",
+    "mode": "deep"
+  }
+}
