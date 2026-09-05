@@ -1,0 +1,9 @@
+{
+  "JOIN_runtime_expand": {
+    "runtime": "run-system/",
+    "pipeline": "ALL.pipeline12.js",
+    "visual": "ultra-visual-core.js",
+    "tmp": "tmp.global.js",
+    "expand": true
+  }
+}
