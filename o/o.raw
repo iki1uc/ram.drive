@@ -1,0 +1,16 @@
+{
+  "RAM_Routing": {
+    "use_panel": "use/",
+    "resolver": "tmp.hdf.resolver.js",
+    "ram_layers": [
+      "ram1.ready","ram3.ready","ram9.ready",
+      "ram27.ready","ram81.ready","ram243.ready","ram729.ready"
+    ],
+    "hdf_layers": [
+      "d.hdf.rom","e.hdf.rom","i.hdf.rom","n.hdf.rom",
+      "o.hdf.rom","r.hdf.rom","s.hdf.rom","u.hdf.rom",
+      "w.hdf.rom","x.hdf.rom"
+    ],
+    "routing_table": "zustand-kanal-4.csv"
+  }
+}
