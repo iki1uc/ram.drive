@@ -1,0 +1,10 @@
+{
+  "JOIN_corridoor_suite": {
+    "warp": "trans",
+    "corridor": "nc",
+    "lage": "active",
+    "schnitt": "active",
+    "bewegung": "ready",
+    "mode": "suite"
+  }
+}
